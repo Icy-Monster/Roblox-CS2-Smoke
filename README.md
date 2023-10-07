@@ -24,6 +24,11 @@ local Origin = Smoke:CreateVoxel(Vector3.new(0,2,0), 0, true)
 Smoke:ExpandVoxel(Origin)
 ```
 
+- To remove the Voxels to mimic shooting you can do something similar to this example:
+```lua
+Smoke:ShootVoxels(StartPosition, EndPosition, 2)
+```
+This will shoot a 2x2 block that starts at the StartPosition and ends at the EndPosition
 
 ## License
 
