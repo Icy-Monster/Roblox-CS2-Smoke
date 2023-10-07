@@ -23,6 +23,7 @@ local Origin = Smoke:CreateVoxel(Vector3.new(0,2,0), 0, true)
 ```lua
 Smoke:ExpandVoxel(Origin)
 ```
+This will expand the origin Voxel to the radius of the Smoke
 
 - To remove the Voxels to mimic shooting you can do something similar to this example:
 ```lua
