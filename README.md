@@ -31,6 +31,7 @@ Smoke:ShootVoxels(StartPosition, EndPosition, 2)
 ```
 This will shoot a 2x2 block that starts at the StartPosition and ends at the EndPosition
 
+The most up to date version is here: https://www.roblox.com/games/14941244503/Smoky-Smoke
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
